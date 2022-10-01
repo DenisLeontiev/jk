@@ -41,14 +41,14 @@ info:
     <SecurityDefinitions />
 
   version: 1.0.0
-  title: Swagger Petstore
+  title: Я не вьебал говна
   termsOfService: 'http://swagger.io/terms/'
   contact:
     name: API Support
     email: apiteam@swagger.io
     url: https://github.com/Redocly/redoc
   x-logo:
-    url: 'https://redocly.github.io/redoc/petstore-logo.png'
+    url: 'https://media.istockphoto.com/id/649503474/de/foto/m%C3%BCrrische-tabby-ernste-britische-katze-auf-schwarzem-hintergrund.webp?s=612x612&w=is&k=20&c=5V6SLhHLeKR61AXI010YRkw-N79zbEaBOcBwPwyCy5w='
     altText: Petstore logo
   license:
     name: Apache 2.0
